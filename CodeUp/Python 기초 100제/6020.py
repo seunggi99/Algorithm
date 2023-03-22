@@ -1,3 +1,2 @@
-a=input()
-for i in range(5):
-    print(a[i])
+a,b = input().split('-')
+print(a+b)
