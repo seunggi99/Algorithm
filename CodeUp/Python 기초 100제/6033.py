@@ -1,3 +1,3 @@
 a = input()
-b = ord(a)
+b = (a)
 print(chr(b+1))
