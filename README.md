@@ -1,1 +1,1 @@
-Algorithm Study History with BaekJoonHub 
+Algorithm Study History with BaekjoonHub 
